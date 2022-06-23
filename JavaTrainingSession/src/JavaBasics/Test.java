@@ -13,5 +13,6 @@ public class Test {
 			n=n/10;
 		}
 		System.out.println(rev);
+		System.out.println("monoj");
 	}		
 }
